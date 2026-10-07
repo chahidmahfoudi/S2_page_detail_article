@@ -1,0 +1,74 @@
+*{
+    padding: 10px;
+    margin: 5px;
+}
+body{
+  background-color: #ffffff;
+  padding: 15px 5px 15px 5px;
+}
+header{
+    background-color: #eeeeda;
+    padding: 20px;
+    border-radius: 5px;
+}
+header a{
+    text-decoration: none;
+    font-size: x-large;
+    margin-right: 60px;
+
+}
+.projet h2{
+    font-weight: bold;
+    font-size:80px;
+    text-align: center;
+}
+.projet img{
+    width: 800px;
+    padding-left: 60%;
+}
+.description{
+    max-width: 50%;
+    margin-top: -412px;
+    font-size: 45px;
+ 
+}
+.objectif{
+    max-width: 50%;
+    margin-top: 100px;
+}
+.objectif p{
+    font-size: 45px;
+    margin: -10px;
+    padding-left: 10px;
+}
+.objectif ul{
+    font-family: Arial, sans-serif;
+    font-size: 30px;
+    margin-top: -30px;
+}
+.technologies img{
+    width: 500px;
+    height: 300px;
+    padding: 20px;
+}
+.button{
+   font-size: xx-large;
+}
+footer{
+   text-align: center; 
+}
+
+
+
+
+
+
+
+
+h3{
+    font-size: 50px;
+}
+h4{
+    font-size: 45px;
+    color: blue;
+}
